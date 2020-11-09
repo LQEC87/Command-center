@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+msgbox "This is not command center, lol."
+Dim a,b,c,d
+a = inputbox "Please input something."
+b = msgbox "What are you doing?"
+c = 86521864520*856284653
+d = Mod(8975421/78954)
+msgbox a & vbCrLf & b & vbCrLf & c & vbCrLf & d
+ WScript.Quit
